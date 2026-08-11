@@ -1,5 +1,5 @@
 # -UPI-Payment-Intelligence-Fraud-Risk-Analysis
-Developed an end-to-end analytics solution on 7 UPI datasets containing 10,000+ transactions using SQL, Python, Statistics, and Power BI, identifying fraud risk drivers, reducing operational inefficiencies, and generating business recommendations capable of lowering fraud exposure by 15–25% and transaction failures below 3%.
+Developed an end-to-end analytics solution on 7 UPI datasets containing 10,000+ transactions using SQL, Python, Statistics, and Power BI, identifying fraud risk drivers, reducing operational inefficiencies, and generating business recommendations to improve fraud monitoring and reduce transaction risk.
 
 
 ## Project Overview
